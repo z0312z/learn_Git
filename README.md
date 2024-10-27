@@ -5,3 +5,4 @@
 地址：https://github.com/z0312z/Tutorial.git
 
 ​
+GitHub 仓库（https://github.com/InternLM/Tutorial）
